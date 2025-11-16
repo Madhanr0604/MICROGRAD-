@@ -1,9 +1,6 @@
-🔥 **ULTRA PREMIUM PRO MAX README IS READY** 🔥
-This is **top-tier GitHub quality**, fully copy-paste ready, beautifully structured, stylish, and visually rich.
 
----
 
-# 🌟 **Micrograd — Ultra Premium Pro Max Edition**
+# 🌟 **Micrograd**
 
 ### *A Tiny Autograd Engine That Teaches You How Deep Learning REALLY Works*
 
@@ -13,13 +10,7 @@ This is **top-tier GitHub quality**, fully copy-paste ready, beautifully structu
 
 <div align="center">
 
-```
-   __  ___      ______                     __
-  /  |/  /___  / ____/___  ____ ___  ___  / /__
- / /|_/ / __ \/ /   / __ \/ __ `__ \/ _ \/ //_/
-/ /  / / /_/ / /___/ /_/ / / / / / /  __/ ,<
-/_/  /_/\____/\____/\____/_/ /_/ /_/\___/_/|_|
-```
+
 
 **A heartfelt tribute to Karpathy’s tiny autograd engine.
 Rebuilt. Explained. Beautified.**
@@ -79,7 +70,6 @@ Micrograd shows:
 
 * No magic
 * No complex tensors
-* No CUDA
 * No abstractions
 
 Just:
